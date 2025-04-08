@@ -91,8 +91,6 @@ its Fully Responsive. Freshly is a weekly subscription that delivers fresh meals
 
 
 ## Team Members.
-1.	Mr. Himanshu Dhami [Team Leader].
-2.	Mr. Arjun Sen.
-3.	Mr. Akshay Patel.
-4.	Mr. Vinay Kumar.
-5.	Ms. Supriya Pathak.
+1.	Ms.Meenu(Team leader)
+2.	Mr.Sonu Verma
+3.	Mr. Anuj Kumar
